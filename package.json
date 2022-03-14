@@ -1,0 +1,17 @@
+{
+  "name": "timer-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await-start.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-williamkoller:williamkoller/timer-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
